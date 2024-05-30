@@ -60,7 +60,7 @@ body {
 
 .socials a {
   text-decoration: none;
-  font-size: 14px;
+  font-size: 0.9rem;
   font-weight: 600;
   color: hsl(0, 0%, 100%);
   background-color: hsl(0, 0%, 20%);
